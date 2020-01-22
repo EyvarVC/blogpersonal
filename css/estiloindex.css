@@ -10,5 +10,11 @@
     
     color: blue;
     font-size: 40px;
+    color: white;
+    background: blue;
 }
 
+#main
+{
+    font-family: Verdana;
+}
