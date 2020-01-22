@@ -1,6 +1,13 @@
+#container
+{
+    text-align: left;
+    width: 50%;
+    margin: auto;
+}
+
 #header
 {
-    text-align: center;
+    
     color: blue;
     font-size: 40px;
 }
